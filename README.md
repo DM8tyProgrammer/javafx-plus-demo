@@ -1,1 +1,2 @@
-# javafx-plus-demo
+
+This project showcases working examples of JavaFx Plus
